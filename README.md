@@ -16,4 +16,4 @@
 
 </div><br/>
 
-![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian2023220&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
