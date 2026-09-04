@@ -4,7 +4,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 
 Gosto da área de desenvolvimento backend, além de grande interesse em Inteligência Artificial e Machine Learning. Acredito que a tecnologia tem o poder de transformar vidas, e estou comprometido em criar soluções que façam a diferença. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiansouto/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cristian-7674)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristian.soutoo/?hl=pt-br)
 
